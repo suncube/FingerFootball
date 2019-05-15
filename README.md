@@ -2,7 +2,7 @@
 
 It's prototype of Finger Football game mechanic.
 
-![](http://drive.google.com/uc?export=view&id=1OqWay_hMKhV-fTTUE9OGL7VbL9N06Jg4)
+![](/ReadmeSource/preview1.gif)
 
 # 
 **Folow me:** 
