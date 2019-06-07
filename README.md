@@ -11,7 +11,8 @@
 
 It's prototype of Finger Football game mechanic.
 
-![](/ReadmeSource/preview1.gif)
+[![Preview](/ReadmeSource/preview1.gif)](https://youtu.be/AGCmIX1N_B8)
+
 
 # 
 
