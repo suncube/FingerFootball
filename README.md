@@ -11,7 +11,3 @@ It's prototype of Finger Football game mechanic.
 
 [![Preview](/ReadmeSource/preview1.gif)](https://youtu.be/AGCmIX1N_B8)
 
-
-# 
-
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.donationalerts.com/r/suncube)
